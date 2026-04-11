@@ -2,6 +2,8 @@
 
 A computer vision project built on the [Kaggle Digit Recognizer competition](https://www.kaggle.com/competitions/digit-recognizer) to classify handwritten digits from the classic MNIST dataset.
 
+![MNIST dataset](image.png)
+
 ## Project Overview
 
 This project explores multiple approaches to image classification, starting from a traditional machine learning baseline and progressively moving toward deep learning with Convolutional Neural Networks (CNNs).
