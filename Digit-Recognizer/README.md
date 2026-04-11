@@ -18,9 +18,9 @@ Digit-Recognizer/
 
 ## Approaches & Results
 
-| Approach | Validation Accuracy | Kaggle Score |
-|---|---|---|
-| Random Forest (baseline) | ~96% | 96.257% |
+| Approach | Validation Accuracy
+|---|---|
+| Random Forest (baseline) | ~96% | 
 
 
 ## Tech Stack
