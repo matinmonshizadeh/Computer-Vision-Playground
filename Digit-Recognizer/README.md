@@ -1,12 +1,12 @@
-# 🔢 Digit Recognizer
+# Digit Recognizer
 
 A computer vision project built on the [Kaggle Digit Recognizer competition](https://www.kaggle.com/competitions/digit-recognizer) to classify handwritten digits from the classic MNIST dataset.
 
-## 📌 Project Overview
+## Project Overview
 
 This project explores multiple approaches to image classification, starting from a traditional machine learning baseline and progressively moving toward deep learning with Convolutional Neural Networks (CNNs).
 
-## 🗂️ Project Structure
+## Project Structure
 ```
 Digit-Recognizer/
 ├── notebooks/
@@ -16,14 +16,14 @@ Digit-Recognizer/
 ```          
 
 
-## 🧪 Approaches & Results
+## Approaches & Results
 
 | Approach | Validation Accuracy | Kaggle Score |
 |---|---|---|
 | Random Forest (baseline) | ~96% | 96.257% |
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - NumPy / Pandas
@@ -31,7 +31,7 @@ Digit-Recognizer/
 - Scikit-learn
 - seaborn
 
-## 🚀 How to Run
+## How to Run
 
 **1. Clone the repository**
 ```bash
