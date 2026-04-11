@@ -29,7 +29,6 @@ Digit-Recognizer/
 - NumPy / Pandas
 - Matplotlib / Seaborn
 - Scikit-learn
-- seaborn
 
 ## How to Run
 
